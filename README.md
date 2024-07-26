@@ -1,5 +1,7 @@
 # My Portfolio
 
+![banner](/assets/img/profile_banner.jpg)
+
 ### Education
 MSc. Biomedical Informatics (Analytics Specialization)
 
