@@ -18,5 +18,5 @@ A comprehensive website designed to keep the public informed about the research 
 
 ![BCEAD_Banner](/assets/img/bcead.png)
 
-<button><a href=" ">Viwe Project</a></button>
+<button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;"><a href=" ">View Project</a></button>
 
