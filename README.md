@@ -72,6 +72,19 @@ The ATS (Application Tracking System) web application leverages the capabilities
 
 ![youtube](/assets/img/ats.jpg)
 
+## Document QA ChatBot
+
+<td>
+  <a href=' '><img src="https://img.shields.io/badge/Streamlit-red" alt="Streamlit Badge"></a>
+  <a href=' '><img src="https://img.shields.io/badge/Large Language Model-purple" alt="Large Language Model Badge"></a> 
+</td>
+
+A chatbot designed to answer questions directly from your uploaded documents. Utilizing state-of-the-art open source language models and embeddings, the Document QA ChatBot processes and analyzes your PDFs to provide accurate and context-specific answers. Whether you need to extract information from research papers, reports, or any other documents, Document QA ChatBot is here to help with seamless, interactive Q&A capabilities.
+
+<a href="https://github.com/shihjen/Document_QA_ChatBot">View Project</a>
+
+![document_chat](/assets/img/docchat.jpg)
+
 ## WikiTable Extractor
 
 <td>
