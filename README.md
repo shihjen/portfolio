@@ -14,7 +14,6 @@ A comprehensive website designed to keep the public informed about the research 
 
 ![BCEAD_Banner](/assets/img/bcead.png)
 
-@import "{{ site.theme }}";
 <a href="https://bcead.github.io/chris-sham-lab/" class="button-link">Visit Website</a>
 
 
