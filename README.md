@@ -59,6 +59,19 @@ Text Summarization is a natural language processing (NLP) task that creates a co
 
 ![youtube](/assets/img/pdf_summarizer.png)
 
+## GeminiAI TalentScout
+
+<td>
+  <a href=' '><img src="https://img.shields.io/badge/Streamlit-red" alt="Streamlit Badge"></a>
+  <a href=' '><img src="https://img.shields.io/badge/Large Language Model-purple" alt="Large Language Model Badge"></a> 
+</td>
+
+The ATS (Application Tracking System) web application leverages the capabilities of a large language model to streamline and enhance the recruitment process. By integrating advanced natural language processing, the application aims to improve the efficiency and accuracy of managing job applications, from initial receipt to final decision. The system is designed to automate various tasks such as parsing resumes, matching candidate qualifications with job requirements, and providing insightful summaries and recommendations.
+
+<a href="https://github.com/shihjen/Application_Tracking_System" class="button-link">View Project</a>
+
+![youtube](/assets/img/ats.jpg)
+
 
 ## BCEAD Laboratory Website
 
