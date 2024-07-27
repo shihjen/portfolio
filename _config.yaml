@@ -1,12 +1,5 @@
 theme: minimal
-markdown: kramdown
 plugins:
   - jekyll-seo-tag
-exclude:
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-# Add this line if not present
-# or ensure you don’t override existing settings
-custom_css: "/assets/css/styles.css"
-
+# This line ensures your custom CSS is included
+stylesheet: /assets/css/styles.css
