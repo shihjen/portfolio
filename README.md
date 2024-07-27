@@ -14,7 +14,7 @@ A comprehensive website designed to keep the public informed about the research 
 
 ![BCEAD_Banner](/assets/img/bcead.png)
 
-<button style="background-color: 000000; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;"><a href="https://bcead.github.io/chris-sham-lab/">Visit Website</a></button>
+<a href="https://bcead.github.io/chris-sham-lab/" class="button-link">Visit Website</a>
 
 
 ## YouTube Sentiment Analyzer
@@ -32,6 +32,6 @@ The YouTube Sentiment Analyzer is a web application designed to provide detailed
 
 ![youtube](/assets/img/youtube.jpg)
 
-<button style="background-color: ffffff; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 4px;"><a href="https://shihjen-youtube-sentimentanalyzer-app-7ecszs.streamlit.app/">Web Application</a></button>
+<a href="https://shihjen-youtube-sentimentanalyzer-app-7ecszs.streamlit.app/" class="button-link">Web Application</a>
 
 
