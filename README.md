@@ -72,6 +72,18 @@ The ATS (Application Tracking System) web application leverages the capabilities
 
 ![youtube](/assets/img/ats.jpg)
 
+## WikiTable Extractor
+
+<td>
+  <a href=' '><img src="https://img.shields.io/badge/Streamlit-red" alt="Streamlit Badge"></a>
+</td>
+
+The WikiTable Extractor is designed to simplify the process of extracting tables from Wikipedia pages. By entering the URL of a Wikipedia page, users can quickly and efficiently pull all the tables present on the page into a usable format. This tool leverages the extensive data resources available on Wikipedia, making it a valuable asset for anyone needing to analyze, manipulate, or repurpose structured data.
+
+<a href="https://github.com/shihjen/WikiTable_Extractor" class="button-link">View Project</a>
+
+![wikitable](/assets/img/htmltable.jpg)
+
 
 ## BCEAD Laboratory Website
 
