@@ -1,2 +1,12 @@
-title: Tan Shih Jen
-remote_theme: pages-themes/architect@v0.2.0
+theme: minimal
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+# Add this line if not present
+# or ensure you don’t override existing settings
+custom_css: "/assets/css/styles.css"
+
