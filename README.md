@@ -14,6 +14,18 @@ In this individual project for the course SPH6004 Advanced Statistical Learning,
 
 ![icu](/assets/img/icu.jpg)
 
+## Oligomer Order & Usage Tracker System
+
+<td>
+  <a href=''><img src="https://img.shields.io/badge/Streamlit-red" alt="Streamlit Badge"></a>
+  <a href=''><img src="https://img.shields.io/badge/Dashboard-lightblue" alt="Dahsboard Badge"></a>
+</td>
+
+This is web application using Python programming to automate the process of tracking usage and order records of oligomers in Assistant Professor Chris Sham Lok-To's laboratory. The application extracts data from invoices and uploads it to a Google spreadsheet for record keeping. It includes a usage dashboard to display expenses and usage breakdowns, as well as document details such as purchase order numbers, sales order numbers, invoice numbers, and delivery orders. By simply uploading invoices, all information is collected automatically, eliminating the need for manual data entry. This significantly helps reduce repetitive tasks and minimize errors.
+
+<a href="https://github.com/shihjen/oligomer_usage_tracker_system/tree/main" class="button-link">View Project</a>
+
+![oligomer](/assets/img/workflow.jpg)
 
 ## YouTube Summarizer
 
