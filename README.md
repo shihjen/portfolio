@@ -36,7 +36,7 @@ This is web application using Python programming to automate the process of trac
 
 Video content has become a dominant medium for information dissemination and entertainment. YouTube, as one of the largest video-sharing platforms, hosts an immense variety of content ranging from educational lectures, news, and tutorials to entertainment. However, the sheer volume of content can be overwhelming for users who may not have the time to watch lengthy videos. A solution to this problem is a web application that leverages the capabilities of large language models (LLMs) to generate concise summaries of YouTube video transcripts. This application aims to provide users with quick, comprehensive overviews of video content, saving them time and enhancing their content consumption experience.
 
-<a href="https://shihjen-youtube-summarizer-app-m6seph.streamlit.app/" class="button-link">Web Application</a>
+<a href="https://github.com/shihjen/YouTube_Summarizer" class="button-link">View Project</a>
 
 ![youtube](/assets/img/yt_summarizer.png)
 
